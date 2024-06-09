@@ -53,5 +53,5 @@ The dataset comprises approximately 15,000 entries with the following columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ISSAM-SALMI/used-cars-market-analysis.git
+   git clone https://github.com/ISSAM-SALMI/DataSet.git
    cd used-cars-market-analysis
